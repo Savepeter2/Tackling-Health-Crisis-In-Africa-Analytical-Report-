@@ -6,7 +6,7 @@ The Documentation can be accessed here:
 https://bit.ly/3UnTeqR
 
 The Dashboard can be accessed here:
-https://bit.ly/477K4Ch
+http://bit.ly/48g54Kf
 
 ![Overview Report](https://github.com/Savepeter2/Tackling-Health-Crisis-In-Africa-Analytical-Report-/assets/68739792/3a792112-8c38-402d-9de1-a95478449891)
 
